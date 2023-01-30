@@ -9,6 +9,6 @@
     <h1>why so serious</h1>
     <h1>hi</h1>
     <h2>Today is <fmt:formatDate value="${today}" pattern="yyyy-MM-dd" /></h2>
-    <h3>Version: 3.0</h3>
+    <h3>오늘은 1월 30일</h3>
 </body>
 </html>
